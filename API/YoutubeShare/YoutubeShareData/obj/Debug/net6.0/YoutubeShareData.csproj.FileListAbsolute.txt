@@ -1,0 +1,12 @@
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.deps.json
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.dll
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.pdb
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.csproj.AssemblyReference.cache
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.AssemblyInfoInputs.cache
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.AssemblyInfo.cs
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.csproj.CoreCompileInputs.cache
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.dll
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\refint\YoutubeShareData.dll
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.pdb
+E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\ref\YoutubeShareData.dll
