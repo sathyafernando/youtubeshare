@@ -10,3 +10,15 @@ E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\Youtu
 E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\refint\YoutubeShareData.dll
 E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.pdb
 E:\Project\YoutubeShare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\ref\YoutubeShareData.dll
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.deps.json
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.dll
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\bin\Debug\net6.0\YoutubeShareData.pdb
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.csproj.AssemblyReference.cache
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.AssemblyInfoInputs.cache
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.AssemblyInfo.cs
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.csproj.CoreCompileInputs.cache
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.dll
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\refint\YoutubeShareData.dll
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\YoutubeShareData.pdb
+C:\GIT\youtubeshare\API\YoutubeShare\YoutubeShareData\obj\Debug\net6.0\ref\YoutubeShareData.dll

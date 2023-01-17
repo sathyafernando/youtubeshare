@@ -3634,28 +3634,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shana\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\shanaka.kariyawasam\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\YoutubeShare\\API\\YoutubeShare\\YoutubeShareData\\YoutubeShareData.csproj",
+      "projectUniqueName": "C:\\GIT\\youtubeshare\\API\\YoutubeShare\\YoutubeShareData\\YoutubeShareData.csproj",
       "projectName": "YoutubeShareData",
-      "projectPath": "E:\\Project\\YoutubeShare\\API\\YoutubeShare\\YoutubeShareData\\YoutubeShareData.csproj",
-      "packagesPath": "C:\\Users\\shana\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\YoutubeShare\\API\\YoutubeShare\\YoutubeShareData\\obj\\",
+      "projectPath": "C:\\GIT\\youtubeshare\\API\\YoutubeShare\\YoutubeShareData\\YoutubeShareData.csproj",
+      "packagesPath": "C:\\Users\\shanaka.kariyawasam\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT\\youtubeshare\\API\\YoutubeShare\\YoutubeShareData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\shana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shanaka.kariyawasam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -3717,7 +3714,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
