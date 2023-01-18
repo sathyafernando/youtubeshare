@@ -15,33 +15,55 @@ function Layout(props){
   const email=useRef("");
   const password=useRef("");
   useEffect(()=>{
+    debugger;
+    const isUserLogin = JSON.parse(localStorage.getItem('isUserLogin'));
     setIsUserLogin((existingData)=>{
-      return false;
+      return isUserLogin;
   })
+  debugger
+  if(localStorage.getItem('userName')!='undefined'){
+  const userName = localStorage.getItem('userName');
+      setuserName((existingData)=>{
+        return userName;
+    })
+  }
+  else{
     setuserName((existingData)=>{
       return "";
   })
+  }
   },[])
+
 function LogOut(){
+  localStorage.clear()
   setIsUserLogin((existingData)=>{
     return false;
   })
   setuserName((existingData)=>{
     return "";
   })
+
+  window.location.reload();
 }
     function loginHandler(){
+      if(email.current.value=="" || password.current.value==""){
+        alert("Invalid Login")
+        return;
+      }
         var payload={
             Username:email.current.value,
             Password:password.current.value,
         }
-        axios.post("https://localhost:7014/api/User/Login",payload)
+        axios.post("http://sathyafernando-001-site1.gtempurl.com/api/User/Login",payload)
         .then((response)=>{
+          debugger;
+          localStorage.setItem("isUserLogin",response.data.validate);
+          localStorage.setItem("userName",response.data.username);
           setIsUserLogin((existingData)=>{
             return response.data.validate;
           })
           setuserName((existingData)=>{
-            return response.data.userName;
+            return response.data.username;
           })            
         })
       }

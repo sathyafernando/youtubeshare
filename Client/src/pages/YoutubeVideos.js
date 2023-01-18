@@ -7,7 +7,7 @@ function YoutubeVideos(){
     const [youtubeVideos, setYoutubeVideos] =useState([])
 
     useEffect(()=>{
-        axios.get("https://localhost:7014/api/YoutubeVideo/GetVideos")
+        axios.get("http://sathyafernando-001-site1.gtempurl.com/api/YoutubeVideo/GetVideos")
         .then((response)=>{
             setYoutubeVideos((existingData)=>{
                 return response.data.youtubeVideos;
