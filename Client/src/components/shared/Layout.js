@@ -54,7 +54,7 @@ function LogOut(){
             Username:email.current.value,
             Password:password.current.value,
         }
-        axios.post("http://sathyafernando-001-site1.gtempurl.com/api/User/Login",payload)
+        axios.post("https://localhost:7014/api/User/Login",payload)
         .then((response)=>{
           debugger;
           localStorage.setItem("isUserLogin",response.data.validate);

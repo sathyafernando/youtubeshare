@@ -27,7 +27,7 @@ function ShareYoutubeVideo(){
         var payload={
             VideoLink:youtubeLink.current.value
         }
-        axios.post("http://sathyafernando-001-site1.gtempurl.com/api/YoutubeVideo/ShareVideo",payload)
+        axios.post("https://localhost:7014/api/YoutubeVideo/ShareVideo",payload)
         .then((response)=>{
             if(!response.data.created){
                 setIsError((existingData)=>{
